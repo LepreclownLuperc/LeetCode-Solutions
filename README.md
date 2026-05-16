@@ -7,6 +7,7 @@ my solutions to problems. LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1755-defuse-the-bomb](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
@@ -17,6 +18,7 @@ my solutions to problems. LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
