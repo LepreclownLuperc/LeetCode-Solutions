@@ -29,6 +29,7 @@ my solutions to problems. LeetCode
 | [0008-string-to-integer-atoi](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ my solutions to problems. LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +56,12 @@ my solutions to problems. LeetCode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
