@@ -38,6 +38,7 @@ my solutions to problems. LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/LepreclownLuperc/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
